@@ -93,3 +93,5 @@ Path of Vitest is as follows -
 https://github.com/udayk96-cs/surpluss-catalogue-qa/blob/main/src/lib/catalogue-status.test.ts
 https://github.com/udayk96-cs/surpluss-catalogue-qa/blob/main/src/lib/pricing.test.ts
 https://github.com/udayk96-cs/surpluss-catalogue-qa/blob/main/src/lib/schemas/enquiry.test.ts
+
+6> Screenshots related to Bug findings are present in the screenshots folder. 
