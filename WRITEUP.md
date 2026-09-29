@@ -86,3 +86,10 @@ Require stack:
 
 4> Due to timing contraints and busy work schedule, I was not able to explore the APP more deeply to find more bugs but I have tried to target the critical funtionalities related to user authorization & actions  are tested to ensure basic works right. 
 FYI - I recieved the assessment email on 28th September and submission window is 30th September EOD hence I am unable to complete the API tests as well for now but have ensured the UI Automated test written are most critical onces and execute without flakiness . 
+
+
+5> Path of the UI Automation case feature file is - https://github.com/udayk96-cs/surpluss-catalogue-qa/tree/main/e2e/features
+Path of Vitest is as follows - 
+https://github.com/udayk96-cs/surpluss-catalogue-qa/blob/main/src/lib/catalogue-status.test.ts
+https://github.com/udayk96-cs/surpluss-catalogue-qa/blob/main/src/lib/pricing.test.ts
+https://github.com/udayk96-cs/surpluss-catalogue-qa/blob/main/src/lib/schemas/enquiry.test.ts
